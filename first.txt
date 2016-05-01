@@ -1,1 +1,1 @@
-Hello There Its a java compiled library. 
+Hello There Its a java compiled library. And its fun to use.
